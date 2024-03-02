@@ -42,4 +42,4 @@ Attempt 3 - Added a third layer
 ![image](https://github.com/wetmore324/21-deep_learning_challenge/assets/136288855/4092663e-d37f-4c59-82df-bcf2b216798b)
 ![image](https://github.com/wetmore324/21-deep_learning_challenge/assets/136288855/235b6843-ae45-478c-a6b5-068a460d9694)
 
-All of these attempts to improve the test accuracy beyond 75% was not successful.  A different model utilizing scikit learn could be used to produce more accurate results. 
+All of these attempts to improve the test accuracy beyond 75% was not successful.  A different model like Support Vector Machines could be used to produce more accurate results. With this model being linear regression and not producing the accurate results needed we would need to choose a different model and the Support Vector Machine works really well with binary classification data.
